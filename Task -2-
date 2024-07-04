@@ -1,3 +1,41 @@
+*/This is a guide to creating an interactive quiz application using HTML, CSS, and JavaScript. Here's an explanation of how each part of the code works:
+
+HTML Structure
+HTML Setup: The HTML document starts with the basic setup for a web page. It includes a link to an external CSS file (styles.css) for styling and a script file (script.js) for the quiz logic.
+Container: The main container holds all the elements of the quiz app, including the title, the quiz questions, the result display, and buttons for submitting answers, retrying the quiz, and showing correct answers.
+CSS Styling
+Font Import: A custom font from Google Fonts is imported to style the text.
+Body Styling: The body is styled to use the imported font and center the content on the page.
+Container Styling: The container is styled with a width, padding, margin, background color, box shadow, and border radius to create a card-like appearance.
+Element Styling: Various elements such as headings, question text, options, buttons, and the result display are styled for a visually appealing layout. Buttons also have hover effects.
+JavaScript Functionality
+Quiz Data: An array of objects represents the quiz questions, options, and correct answers.
+DOM Elements: Key DOM elements are selected for manipulating the quiz content and interacting with user input.
+State Variables: Variables are used to keep track of the current question, score, and incorrectly answered questions.
+Shuffle Function: A function to randomize the order of options for each question.
+Display Question: This function creates and displays a question along with its options. The options are shuffled for each question.
+Check Answer: This function checks if the selected option is correct, updates the score, and moves to the next question. If all questions are answered, it displays the result.
+Display Result: This function shows the final score and displays retry and show answer buttons.
+Retry Quiz: This function resets the quiz state and starts the quiz again.
+Show Answers: This function displays the incorrect answers along with the correct ones for review.
+Event Listeners
+Submit Button: Checks the answer when the user clicks to submit their response.
+Retry Button: Resets and restarts the quiz when the user clicks to retry.
+Show Answer Button: Displays the correct answers and user’s incorrect responses.
+This setup ensures that the quiz app provides an interactive experience where users can navigate through questions, receive feedback on their answers, and review their mistakes.*/
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
