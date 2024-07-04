@@ -1,4 +1,4 @@
-*/This is a guide to creating an interactive quiz application using HTML, CSS, and JavaScript. Here's an explanation of how each part of the code works:
+/*This is a guide to creating an interactive quiz application using HTML, CSS, and JavaScript. Here's an explanation of how each part of the code works:
 
 HTML Structure
 HTML Setup: The HTML document starts with the basic setup for a web page. It includes a link to an external CSS file (styles.css) for styling and a script file (script.js) for the quiz logic.
@@ -23,17 +23,6 @@ Submit Button: Checks the answer when the user clicks to submit their response.
 Retry Button: Resets and restarts the quiz when the user clicks to retry.
 Show Answer Button: Displays the correct answers and user’s incorrect responses.
 This setup ensures that the quiz app provides an interactive experience where users can navigate through questions, receive feedback on their answers, and review their mistakes.*/
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!DOCTYPE html>
