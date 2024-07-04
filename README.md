@@ -8,19 +8,17 @@ Mentor: SRAVANI GOUNI
 OVERVIEW OF THE PROJECT:
 
 PROJECT: INTERACTIVE QUIZ APPLICATION
-![Screenshot (82)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/c5107a72-3700-4ca3-b1aa-bedb80701496)
-![Screenshot (83)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/11ea576e-7a4c-4426-86c5-4fd417775601)
-![Screenshot (84)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/f8f9bfae-ce2a-4798-b6b3-fa0115af54cc)
-![Screenshot (85)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/be925fe4-5c37-4973-abd4-c2b8579c818d)
-![Screenshot (86)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/afc8be9b-5314-48b7-9099-bf6edb6d6bc9)
-![Screenshot (87)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/07270b18-48f3-4047-9ea5-536943f9d20d)
-![Screenshot (88)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/e041bbbe-02a7-4885-b0ca-faab3836fce2)
-![Screenshot (89)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/af047154-9dbb-413c-8d5f-b822971fc572)
-![Screenshot (90)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/af047154-9dbb-413c-8d5f-b822971fc572)
-![Screenshot (91)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/af047154-9dbb-413c-8d5f-b822971fc572)
-![Screenshot (92)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/af047154-9dbb-413c-8d5f-b822971fc572)
-![Screenshot (93)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/af047154-9dbb-413c-8d5f-b822971fc572)
-
+![Screenshot (94)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/ad7617a0-51eb-438b-a1b7-a0dd35e83484)
+![Screenshot (96)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/d22a91ab-6c17-4124-b144-2d2c0bb84cbf)
+![Screenshot (97)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/a8279a45-d6b3-409b-b46e-cd2fface7094)
+![Screenshot (98)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/e8aea728-515d-4ede-8a92-8b507e4abda6)
+![Screenshot (99)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/0f9e9ef3-b313-4352-bd16-bdac29bd6152)
+![Screenshot (100)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/84a38e91-b420-4b97-a636-708a9b68e765)
+![Screenshot (101)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/882a1fe6-2a67-474c-b7a8-1d2492ac999d)
+![Screenshot (102)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/b91e8e3f-ae5b-44d3-9eca-3963909a7a34)
+![Screenshot (103)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/a5565a22-ae74-4779-836c-b16a071732a3)
+![Screenshot (104)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/3ae99842-e9de-4479-af54-22f5b5619b86)
+![Screenshot (105)](https://github.com/G2006950/CODTECH-TASK-2/assets/173653887/477cf941-1e07-4676-84ce-c7f24d2fbbab)
 Objectives:
 Create an Interactive Quiz: Develop an application that allows users to take a multiple-choice quiz.
 Handle Quiz Logic: Use JavaScript to manage quiz progression, including question navigation, scoring, and feedback.
